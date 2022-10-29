@@ -1,6 +1,6 @@
 ---
-title: Hyvää kahvia
-subtitle: Support sustainable farming while enjoying a cup
+title: Treenipäiväkirja
+subtitle: Alaotsikko
 image: img/img_20221023_104026.jpg
 blurb:
   heading: Why Kaldi?
