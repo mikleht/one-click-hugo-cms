@@ -1,7 +1,7 @@
 ---
 title: Hyvää kahvia
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/img_20221023_104026.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
